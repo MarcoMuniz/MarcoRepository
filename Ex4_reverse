@@ -1,0 +1,7 @@
+#Exercício 4 - Leitura Lista Reversa
+
+Lista = ["a","b","c","d"]
+
+Lista.reverse()
+
+print Lista
