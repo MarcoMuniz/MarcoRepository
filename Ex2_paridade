@@ -1,0 +1,9 @@
+#Exercício 2 - Paridade
+
+def par (e):
+    f = e%2
+    if f==0:
+        print "Número par"
+    else:
+        print "Número impar"
+    
