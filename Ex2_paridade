@@ -1,9 +1,12 @@
-#Exercício 2 - Paridade
+#Exercicio 2 - Paridade
 
 def par (e):
     f = e%2
     if f==0:
-        print "Número par"
+        print "Numero par"
     else:
-        print "Número impar"
+        print "Numero impar"
     
+
+# Nota: 0.5
+# Comentario: Uma funcao precisa ser chamada para ser executada
