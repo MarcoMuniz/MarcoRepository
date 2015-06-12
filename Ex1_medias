@@ -1,4 +1,4 @@
-#Exercício 1 - Média de 3 números
+#Exercicio 1 - Media de 3 numeros
 
 def media():
     print "Digite 3 numeros"
@@ -6,4 +6,9 @@ def media():
     b = int (raw_input()) #int (  ) tranforma o que esta dengtro do parentes em inteiro
     d = int (raw_input())
     c = (a+b+d)/3.0
-    print "A média dos valores é: %f" % (c) 
+    print "A media dos valores e: %f" % (c) 
+
+
+# Nota: 0.5
+# Comentario: O programa nao eh executado porque a funcao media() nunca eh
+# chamada. Considerando meio pelo algoritmo correto e organizacao

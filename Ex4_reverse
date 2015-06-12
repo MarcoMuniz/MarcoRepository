@@ -1,7 +1,12 @@
-#Exercício 4 - Leitura Lista Reversa
+#Exercicio 4 - Leitura Lista Reversa
 
 Lista = ["a","b","c","d"]
 
 Lista.reverse()
 
 print Lista
+
+# Nota: 0.1
+# Comentario: O programa nao faz o que exercicio propoe, que eh mostrar uma
+# string digitada pelo usuario de forma reversa. Considerando 0.1 pelo uso do
+# metodo reverse() da lista
