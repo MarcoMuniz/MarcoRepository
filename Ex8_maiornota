@@ -1,4 +1,4 @@
-#Exercício 8 - Maior Nota
+#Exercicio 8 - Maior Nota
 
 import sys
 notas = []
@@ -22,3 +22,6 @@ for i in notas:
 if len(notas):
     print 'Media = ',soma/len(notas)
     print 'Maior Nota = ', max(notas)
+
+#Nota: 0.9
+#Comentario: A media eh um valor float e nao int
